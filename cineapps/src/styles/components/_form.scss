@@ -16,6 +16,8 @@
       width: 220px;
       outline: none;
       text-align: center;
+      background-color: rgb(189, 187, 187);
+      color: black;
     }
     input[type="submit"] {
       padding: 1px 10px;
@@ -55,7 +57,7 @@
       transition: 0.3s;
       position: relative;
       color: #fff;
-      font-size: .9rem;
+      font-size: 1.1rem;
 
       &:hover {
         background: $black;
